@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/viktoriaWeb/ZPI_03/issues"
   },
-  "homepage": "https://github.com/viktoriaWeb/ZPI_03#readme"
+  "homepage": "https://github.com/viktoriaWeb/ZPI_03#readme",
+  "devDependencies": {
+    "mocha": "^8.3.0"
+  }
 }
