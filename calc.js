@@ -1,5 +1,5 @@
 function Taylor(/*in*/iCount){
-return 10
+return 9
 };
  
 module.exports.Taylor = Taylor; 
