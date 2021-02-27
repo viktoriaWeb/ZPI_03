@@ -1,0 +1,19 @@
+{
+  "name": "zpi_03",
+  "version": "1.0.0",
+  "description": "Components of Software Engineering",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktoriaWeb/ZPI_03.git"
+  },
+  "author": "Viktoriia Pikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktoriaWeb/ZPI_03/issues"
+  },
+  "homepage": "https://github.com/viktoriaWeb/ZPI_03#readme"
+}
