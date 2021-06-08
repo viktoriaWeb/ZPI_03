@@ -1,5 +1,5 @@
-function Taylor(/*in*/iCount){
+function aTaylor(/*in*/iCount){
 return 8
 };
  
-module.exports.Taylor = Taylor; 
+module.exports.Taylor = aTaylor; 
